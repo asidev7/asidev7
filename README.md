@@ -1,10 +1,15 @@
 
 ## 🚀 About Me
 
-Je suis développeur web avec plus de 3 ans d'expérience. J'ai travaillé sur une grande variété de projets de développement Web, allant de petits sites Web personnels à de grandes applications Web d'entreprise. J'ai une solide compréhension des technologies de développement Web front-end et back-end.
- Je passe mes journées avec mes mains (à coder) dans de nombreux domaines différents du développement Web, de la programmation back-end (PHP, Django/Python(sur la création de chatbot,l’ intélligence articifielle), à l'ingénierie front-end (HTML, CSS(boostrap) et jQuery/Javascript), l'accessibilité numérique, et  l'expérience utilisateur (web designer). J'ai travaillé sur une grande variété de projets de développement Web, allant de petits sites Web personnels à de  applications Web . 
-                            
-Je suis actuellement à la recherche d'un nouveau défi de développement web qui me permettra d'utiliser mes compétences et mon expérience pour créer des sites web et des applications web de haute qualité.
+<h1>Hi there! I'm Augustin Sandé Idohou,a.k.a <b>Asidev</b> a full-stack web developer with experience using Python and the Django framework. I love developing modern, dynamic websites that engage users and deliver value.</p>
+        <p>My journey into web development started 03 years ago. Since then, I have worked on several projects, including elearning app, e-commerce with multi products and etc.</p>
+        <p>My technical skills include HTML,CSS, JavaScript, PHP, and Python, and so Python, Django, MySQL,.. . I also have experience with manager project, chatbot builder, and others such as project management, communication, problem-solving, etc.</p>
+     
+                     </p>
+                    <p>
+  <p>When I'm not coding, you can find me a video games, Hacking challenge and other</p>
+
+                    </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>

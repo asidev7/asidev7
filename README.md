@@ -17,8 +17,6 @@ Je suis actuellement à la recherche d'un nouveau défi de développement web qu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asidev7&show_icons=true&locale=en" alt="Augustin idohou" /></p>
 
 
-[![portfolio] (https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://asidev.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augustinidohou)
 [![Facebook](https://img.shields.io/badge/facebook-0a66c2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/augustinidohouofficiel)
 

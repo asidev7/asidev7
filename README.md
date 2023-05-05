@@ -5,8 +5,8 @@
         <p>My journey into web development started 03 years ago. Since then, I have worked on several projects, including elearning app, e-commerce with multi products and etc.</p>
         <p>My technical skills include HTML,CSS, JavaScript, PHP, and Python, and so Python, Django, MySQL,.. . I also have experience with manager project, chatbot builder, and others such as project management, communication, problem-solving, etc.</p>
      
-                     </p>
-                    <p>
+                     
+                    <code> CHALLENGES </code>
   <p>When I'm not coding, you can find me a video games, Hacking challenge and other</p>
 
                     </p>

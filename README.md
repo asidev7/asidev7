@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-<h1>Hi there! I'm Augustin Sandé Idohou,a.k.a <b>Asidev</b> a full-stack web developer with experience using Python and the Django framework. I love developing modern, dynamic websites that engage users and deliver value.</p>
+<p>Hi there! I'm Augustin Sandé Idohou,a.k.a <b>Asidev</b> a full-stack web developer with experience using Python and the Django framework. I love developing modern, dynamic websites that engage users and deliver value.</p>
         <p>My journey into web development started 03 years ago. Since then, I have worked on several projects, including elearning app, e-commerce with multi products and etc.</p>
         <p>My technical skills include HTML,CSS, JavaScript, PHP, and Python, and so Python, Django, MySQL,.. . I also have experience with manager project, chatbot builder, and others such as project management, communication, problem-solving, etc.</p>
      

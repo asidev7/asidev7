@@ -1,16 +1,10 @@
+🚀 ##About Me
+<p>Hi! I'm Augustin Sandé Idohou, also known as <b>Asidev</b>. I'm a full-stack web developer with expertise in Python and the Django framework. I enjoy crafting modern, interactive websites that captivate users and provide value.</p>
+<p>My journey in web development began 3 years ago. Since then, I've worked on various projects, including e-learning apps and multi-product e-commerce platforms.</p>
+<p>My technical skills span HTML, CSS, JavaScript, PHP, and Python, particularly Django and MySQL. Additionally, I have experience in project management, communication, problem-solving, and chatbot development.</p>
+<code> CHALLENGES </code>
 
-## 🚀 About Me
-
-<p>Hi there! I'm Augustin Sandé Idohou,a.k.a <b>Asidev</b> a full-stack web developer with experience using Python and the Django framework. I love developing modern, dynamic websites that engage users and deliver value.</p>
-        <p>My journey into web development started 03 years ago. Since then, I have worked on several projects, including elearning app, e-commerce with multi products and etc.</p>
-        <p>My technical skills include HTML,CSS, JavaScript, PHP, and Python, and so Python, Django, MySQL,.. . I also have experience with manager project, chatbot builder, and others such as project management, communication, problem-solving, etc.</p>
-     
-                     
-                    <code> CHALLENGES </code>
-  <p>When I'm not coding, you can find me a video games, Hacking challenge and other</p>
-
-                    </p>
-
+<p>Outside of coding, I love gaming, participating in hacking challenges, and exploring other interests.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 

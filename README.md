@@ -1,21 +1,85 @@
-🚀 ##About Me
-<p>Hi! I'm Augustin Sandé Idohou, also known as <b>Asidev</b>. I'm a full-stack web developer with expertise in Python and the Django framework. I enjoy crafting modern, interactive websites that captivate users and provide value.</p>
-<p>My journey in web development began 3 years ago. Since then, I've worked on various projects, including e-learning apps and multi-product e-commerce platforms.</p>
-<p>My technical skills span HTML, CSS, JavaScript, PHP, and Python, particularly Django and MySQL. Additionally, I have experience in project management, communication, problem-solving, and chatbot development.</p>
-<code> CHALLENGES </code>
+<h1 align="center">🚀 Augustin Sandé Idohou (Asidev)</h1>
+<h3 align="center">Full-Stack Developer | Founder of ASITECH | Passionate about Tech, AI, and Innovation</h3>
 
-<p>Outside of coding, I love gaming, participating in hacking challenges, and exploring other interests.</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asidev7&show_icons=true&locale=en&layout=compact" alt="Augustin idohou" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asidev7&show_icons=true&locale=en" alt="Augustin idohou" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Django+and+Vue+Expert;AI+Chatbot+Builder;Loves+Solving+Tech+Challenges;Let's+Build+Something+Great!" />
+</p>
 
+---
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augustinidohou)
-[![Facebook](https://img.shields.io/badge/facebook-0a66c2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/augustinidohouofficiel)
+## 👨‍💻 About Me
+
+Hi there! I'm **Augustin Sandé Idohou**, also known as **Asidev**, a passionate full-stack developer from 🇧🇯 **Benin**, and the founder of **ASITECH**, a startup dedicated to delivering smart digital solutions in West Africa and beyond.
+
+🧠 I specialize in **Python** (especially Django), JavaScript (Vue.js, React), and love creating platforms that are both functional and user-friendly.
+
+💼 Over the past 3 years, I've worked on:
+- E-learning platforms,
+- Multi-product e-commerce websites,
+- Fintech systems,
+- AI-powered chatbots,
+- Social platforms and marketplaces.
+
+🧩 I enjoy blending code with creativity and solving real-world problems through clean, scalable software.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" alt="OpenAI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" alt="Adobe XD" />
+</p>
+
+---
+
+## 🧠 Soft Skills
+
+- 💬 Communication & Collaboration  
+- 🧩 Problem-Solving  
+- 📂 Project Management  
+- 🤖 AI & Chatbot Design  
+- 📱 UX/UI Prototyping
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asidev7&show_icons=true&locale=en" alt="Asidev GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asidev7&layout=compact&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/augustinidohou"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://facebook.com/augustinidohouofficiel"><img src="https://img.shields.io/badge/facebook-0a66c2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:contact@asidev.me"><img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/augustinidohou/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🤝 Let's Build Together
+
+> 💡 I’m always open to collaborations, freelance work, or building startups that solve real problems. Let’s innovate!
 
